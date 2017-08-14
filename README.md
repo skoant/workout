@@ -1,5 +1,5 @@
 # Workout
-Simple paser with timer and sound que for physical training
+Simple physical training paser with timer and sound que
 # Todo
 + Timer module to start / pause daily exercise
 + Save progress to cookie / localstorage
